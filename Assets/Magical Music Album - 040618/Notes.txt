@@ -1,0 +1,18 @@
+	Magical Music Album - 040618
+	Artist: GWriterStudio
+1. Strange Door
+2. Welcome to Wonderland
+3. Fantasy Dream
+4. Tiny Fairy
+5. Glass House
+6. Party Hour
+7. Queen
+8. Which Way
+9. Memories Ballet
+10. Toys Castle
+
+Please use .wav for looping sound in Unity without problems.
+Remove .mp3 if not needded
+
+Have Questions contact me via gmail:
+gwriterstudio@gmail.com

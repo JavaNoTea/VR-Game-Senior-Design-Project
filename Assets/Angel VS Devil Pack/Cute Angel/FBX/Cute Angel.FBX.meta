@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 337fd8aa7cae86a43a14a8c3fdf250db
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cute Angel
+    100004: Object001
+    100006: Rig
+    100008: RigHalo
+    100010: RigHaloGizmo
+    100012: RigHead
+    100014: RigHeadGizmo
+    100016: RigLHand
+    100018: RigLHandGizmo
+    100020: RigLWing1
+    100022: RigLWing1Gizmo
+    100024: RigLWing2
+    100026: RigLWing2Gizmo
+    100028: RigLWing3
+    100030: RigLWing3Gizmo
+    100032: RigPelvis
+    100034: RigPelvisGizmo
+    100036: RigRHand
+    100038: RigRHandGizmo
+    100040: RigRWing1
+    100042: RigRWing1Gizmo
+    100044: RigRWing2
+    100046: RigRWing2Gizmo
+    100048: RigRWing3
+    100050: RigRWing3Gizmo
+    100052: RigSpine
+    100054: RigTail1
+    100056: RigTail1Gizmo
+    100058: RigTail2
+    100060: RigTail2Gizmo
+    100062: RigTail3
+    100064: RigTail3Gizmo
+    400000: //RootNode
+    400002: Cute Angel
+    400004: Object001
+    400006: Rig
+    400008: RigHalo
+    400010: RigHaloGizmo
+    400012: RigHead
+    400014: RigHeadGizmo
+    400016: RigLHand
+    400018: RigLHandGizmo
+    400020: RigLWing1
+    400022: RigLWing1Gizmo
+    400024: RigLWing2
+    400026: RigLWing2Gizmo
+    400028: RigLWing3
+    400030: RigLWing3Gizmo
+    400032: RigPelvis
+    400034: RigPelvisGizmo
+    400036: RigRHand
+    400038: RigRHandGizmo
+    400040: RigRWing1
+    400042: RigRWing1Gizmo
+    400044: RigRWing2
+    400046: RigRWing2Gizmo
+    400048: RigRWing3
+    400050: RigRWing3Gizmo
+    400052: RigSpine
+    400054: RigTail1
+    400056: RigTail1Gizmo
+    400058: RigTail2
+    400060: RigTail2Gizmo
+    400062: RigTail3
+    400064: RigTail3Gizmo
+    2300000: Cute Angel
+    2300002: Object001
+    2300004: //RootNode
+    3300000: Cute Angel
+    3300002: Object001
+    3300004: //RootNode
+    4300000: Cute Angel
+    4300002: Object001
+    9500000: //RootNode
+    13700000: Cute Angel
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Cute Angel
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 646035390eafd1c46bfca28b70273c5c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Difuse: {instanceID: 0}
+  - _MetalicRSmoothnessA: {instanceID: 0}
+  - _Normal: {instanceID: 0}
+  - _Mask: {instanceID: 0}
+  - _texcoord: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
